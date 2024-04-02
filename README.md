@@ -44,10 +44,9 @@ I built this project with React and Tailwind CSS.
 During the making of this project, I've practiced various skills in HTML and CSS, and React.
 
 In CSS,
-- 
-
-In React,
-- 
+- Hover functionality
+- Stacking items on top of each other
+using grid and z-index
 
 
 ## Author
